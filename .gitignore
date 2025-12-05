@@ -34,7 +34,6 @@ output/
 Thumbs.db
 
 # Data files (keep structure, ignore actual data)
-*.xls
 *.xlsx
 !data.xls.example
 
